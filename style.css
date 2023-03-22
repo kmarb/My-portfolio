@@ -7,13 +7,16 @@
 *{
     background-color: antiquewhite;
 }
-.about {
+.header {
     border-style: dotted ;
     border-color: brown;
 }
-.work {
+#work {
     color: black;
 }
-.resume {
+#resume {
 border-style: solid;
+}
+.footer {
+color: brown;
 }
