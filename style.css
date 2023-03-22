@@ -1,0 +1,19 @@
+#topnav{
+    display: inline;
+}
+*{
+    font-family: roboto;
+}
+*{
+    background-color: antiquewhite;
+}
+.about {
+    border-style: dotted ;
+    border-color: brown;
+}
+.work {
+    color: black;
+}
+.resume {
+border-style: solid;
+}
